@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\bin\Debug\net5.0\O-Maior1013.exe
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\bin\Debug\net5.0\O-Maior1013.deps.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\bin\Debug\net5.0\O-Maior1013.runtimeconfig.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\bin\Debug\net5.0\O-Maior1013.runtimeconfig.dev.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\bin\Debug\net5.0\O-Maior1013.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\bin\Debug\net5.0\O-Maior1013.pdb
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\obj\Debug\net5.0\O-Maior1013.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\obj\Debug\net5.0\O-Maior1013.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\obj\Debug\net5.0\O-Maior1013.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\obj\Debug\net5.0\O-Maior1013.AssemblyInfo.cs
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\obj\Debug\net5.0\O-Maior1013.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\obj\Debug\net5.0\O-Maior1013.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\obj\Debug\net5.0\refint\O-Maior1013.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\obj\Debug\net5.0\O-Maior1013.pdb
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\obj\Debug\net5.0\O-Maior1013.genruntimeconfig.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\O-Maior1013\obj\Debug\net5.0\ref\O-Maior1013.dll

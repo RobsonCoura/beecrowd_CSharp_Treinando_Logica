@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\bin\Debug\net5.0\GastoDeCombustivel1017.exe
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\bin\Debug\net5.0\GastoDeCombustivel1017.deps.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\bin\Debug\net5.0\GastoDeCombustivel1017.runtimeconfig.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\bin\Debug\net5.0\GastoDeCombustivel1017.runtimeconfig.dev.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\bin\Debug\net5.0\GastoDeCombustivel1017.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\bin\Debug\net5.0\GastoDeCombustivel1017.pdb
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\obj\Debug\net5.0\GastoDeCombustivel1017.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\obj\Debug\net5.0\GastoDeCombustivel1017.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\obj\Debug\net5.0\GastoDeCombustivel1017.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\obj\Debug\net5.0\GastoDeCombustivel1017.AssemblyInfo.cs
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\obj\Debug\net5.0\GastoDeCombustivel1017.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\obj\Debug\net5.0\GastoDeCombustivel1017.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\obj\Debug\net5.0\refint\GastoDeCombustivel1017.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\obj\Debug\net5.0\GastoDeCombustivel1017.pdb
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\obj\Debug\net5.0\GastoDeCombustivel1017.genruntimeconfig.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\GastoDeCombustivel1017\obj\Debug\net5.0\ref\GastoDeCombustivel1017.dll

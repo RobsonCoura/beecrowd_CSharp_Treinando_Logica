@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\bin\Debug\net5.0\Beecrowd1010.exe
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\bin\Debug\net5.0\Beecrowd1010.deps.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\bin\Debug\net5.0\Beecrowd1010.runtimeconfig.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\bin\Debug\net5.0\Beecrowd1010.runtimeconfig.dev.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\bin\Debug\net5.0\Beecrowd1010.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\bin\Debug\net5.0\Beecrowd1010.pdb
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\obj\Debug\net5.0\Beecrowd1010.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\obj\Debug\net5.0\Beecrowd1010.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\obj\Debug\net5.0\Beecrowd1010.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\obj\Debug\net5.0\Beecrowd1010.AssemblyInfo.cs
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\obj\Debug\net5.0\Beecrowd1010.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\obj\Debug\net5.0\Beecrowd1010.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\obj\Debug\net5.0\refint\Beecrowd1010.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\obj\Debug\net5.0\Beecrowd1010.pdb
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\obj\Debug\net5.0\Beecrowd1010.genruntimeconfig.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\Beecrowd1010\obj\Debug\net5.0\ref\Beecrowd1010.dll

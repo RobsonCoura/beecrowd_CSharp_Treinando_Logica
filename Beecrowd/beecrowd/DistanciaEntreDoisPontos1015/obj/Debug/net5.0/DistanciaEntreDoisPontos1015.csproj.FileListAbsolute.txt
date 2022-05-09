@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\bin\Debug\net5.0\DistanciaEntreDoisPontos1015.exe
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\bin\Debug\net5.0\DistanciaEntreDoisPontos1015.deps.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\bin\Debug\net5.0\DistanciaEntreDoisPontos1015.runtimeconfig.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\bin\Debug\net5.0\DistanciaEntreDoisPontos1015.runtimeconfig.dev.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\bin\Debug\net5.0\DistanciaEntreDoisPontos1015.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\bin\Debug\net5.0\DistanciaEntreDoisPontos1015.pdb
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\obj\Debug\net5.0\DistanciaEntreDoisPontos1015.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\obj\Debug\net5.0\DistanciaEntreDoisPontos1015.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\obj\Debug\net5.0\DistanciaEntreDoisPontos1015.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\obj\Debug\net5.0\DistanciaEntreDoisPontos1015.AssemblyInfo.cs
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\obj\Debug\net5.0\DistanciaEntreDoisPontos1015.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\obj\Debug\net5.0\DistanciaEntreDoisPontos1015.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\obj\Debug\net5.0\refint\DistanciaEntreDoisPontos1015.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\obj\Debug\net5.0\DistanciaEntreDoisPontos1015.pdb
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\obj\Debug\net5.0\DistanciaEntreDoisPontos1015.genruntimeconfig.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\DistanciaEntreDoisPontos1015\obj\Debug\net5.0\ref\DistanciaEntreDoisPontos1015.dll

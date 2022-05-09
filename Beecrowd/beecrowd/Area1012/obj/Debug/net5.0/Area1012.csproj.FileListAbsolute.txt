@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\bin\Debug\net5.0\Area1012.exe
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\bin\Debug\net5.0\Area1012.deps.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\bin\Debug\net5.0\Area1012.runtimeconfig.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\bin\Debug\net5.0\Area1012.runtimeconfig.dev.json
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\bin\Debug\net5.0\Area1012.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\bin\Debug\net5.0\Area1012.pdb
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\obj\Debug\net5.0\Area1012.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\obj\Debug\net5.0\Area1012.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\obj\Debug\net5.0\Area1012.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\obj\Debug\net5.0\Area1012.AssemblyInfo.cs
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\obj\Debug\net5.0\Area1012.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\obj\Debug\net5.0\Area1012.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\obj\Debug\net5.0\refint\Area1012.dll
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\obj\Debug\net5.0\Area1012.pdb
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\obj\Debug\net5.0\Area1012.genruntimeconfig.cache
+D:\AprendendoCSharp\Beecrowd\beecrowd\Area1012\obj\Debug\net5.0\ref\Area1012.dll

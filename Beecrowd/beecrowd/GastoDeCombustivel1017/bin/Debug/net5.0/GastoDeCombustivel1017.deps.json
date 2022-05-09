@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GastoDeCombustivel1017/1.0.0": {
+        "runtime": {
+          "GastoDeCombustivel1017.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GastoDeCombustivel1017/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
